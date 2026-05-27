@@ -279,4 +279,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-<p align="center">Made with ❤️ by the RepoLens AI Team</p>
+<p align="center">Made with ❤️ by the Manan Shah</p>
