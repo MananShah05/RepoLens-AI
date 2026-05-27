@@ -1,0 +1,13 @@
+.git
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+chroma_db/
+repos/
+repolens.db
+.pytest_cache/
+.coverage
+htmlcov/
