@@ -1,0 +1,37 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+backend/.venv/
+backend/venv/
+*.md
+
+# Backend Local Files (Secrets, DBs, Repos)
+backend/.env
+backend/.env.*
+backend/repolens.db
+backend/repolens.db-journal
+backend/chroma_db/
+backend/repos/
+
+# Frontend (Next.js & Node)
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/tsconfig.tsbuildinfo
+frontend/.env*.local
+frontend/.env
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.suo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules/
+/jspm_packages/
+
+# Next.js build output
+.next/
+out/
+
+# Production build and cache
+build/
+.next/
+tsconfig.tsbuildinfo
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local env files
+.env*.local
+.env
+.env.development
+.env.production
+.env.test
+
+# IDE and Editor configs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
