@@ -262,21 +262,4 @@ cd repolens-ai
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions of all shapes and sizes! To get started:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/amazing-feature`.
-3. Commit your changes: `git commit -m 'Add amazing feature'`.
-4. Push to the branch: `git push origin feature/amazing-feature`.
-5. Open a Pull Request.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 <p align="center">Made with ❤️ by Manan Shah</p>
