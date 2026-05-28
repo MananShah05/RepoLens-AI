@@ -5,7 +5,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-3F70FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)](https://trychroma.com)
 [![Tree-sitter](https://img.shields.io/badge/Tree--sitter-1D232A?style=for-the-badge)](https://tree-sitter.github.io/tree-sitter/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 
 > **RepoLens AI** is an AI-powered GitHub repository understanding platform. It automates the process of explaining complex codebases, summarizing architectures, generating interactive dependency diagrams, and helping developers onboard in minutes instead of days.
 
